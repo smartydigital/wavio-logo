@@ -1,0 +1,20 @@
+{
+  "name": "Wavio",
+  "symbol": "WAV",
+  "description": "Wavio is a Listen-to-Earn and Stream-to-Earn platform built on Solana.",
+  "image": "https://raw.githubusercontent.com/smartydigital/wavio-logo/refs/heads/main/wavio-logo.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    { "trait_type": "Category", "value": "Music" },
+    { "trait_type": "Utility", "value": "Listen-to-Earn" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/smartydigital/wavio-logo/refs/heads/main/wavio-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "token"
+  }
+}
